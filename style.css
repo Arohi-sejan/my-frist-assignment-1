@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
 
+
 }
 /* Hero Section Styling */
 .hero {
@@ -74,4 +75,28 @@
     align-items: center;
     justify-content: space-between;
 
+}
+/* hedar close */
+/* main strat */
+.card-icon{
+    height: 250px;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+}
+.card-parent{
+    background-color: #D5D6D8;
+    padding: 30px;
+    display: flex;
+    gap: 20px;
+
+}
+.main-text{
+    background-color: #D5D6D8;
+    padding-top: 50px;
+    
+}
+.text{
+    margin-left: 28px;
 }
